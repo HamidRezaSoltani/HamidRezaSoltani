@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @HamidRezaSoltani
 - 👀 I’m interested in Digital wireless Communication and AI
-- 🌱 I’m currently working in ericsson as RAN engineer and also i am graduated student of TMU, 
+- 🌱 I’m currently working in ericsson as RAN engineer and also 5G researcher @ TMU, 
 - 📫 How to reach me hamiiidrezzza@gmail.com//00989354158552
