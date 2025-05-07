@@ -1,11 +1,11 @@
 <body formatVersion="2.0" signatureType="3">
-<sequenceNumber>1050</sequenceNumber>
-<SWLT customerId="43211" productType="MINI-LINK" swltId="6801135122bd47042914ffff">
+<sequenceNumber>{{SEQUENCE}}</sequenceNumber>
+<SWLT customerId="43211" productType="MINI-LINK" swltId="{{FINGERPRINT}}">
 <generalInfo>
 <generated>2012-12-12T12:12:12</generated>
 <issuer>Ericsson AB</issuer>
 </generalInfo>
-<fingerprint method="5" print="6801135122bd47042914ffff">
+<fingerprint method="5" print="{{FINGERPRINT}}">
 <capacityKey id="FAL1043888">
 <description>AMM 20p Slot Extension</description>
 <start>2025-05-04</start>
