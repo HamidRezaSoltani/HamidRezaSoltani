@@ -1,1 +1,291 @@
-2
+<body formatVersion="2.0" signatureType="3">
+<sequenceNumber>1050</sequenceNumber>
+<SWLT customerId="43211" productType="MINI-LINK" swltId="6801135122bd47042914ffff">
+<generalInfo>
+<generated>2012-12-12T12:12:12</generated>
+<issuer>Ericsson AB</issuer>
+</generalInfo>
+<fingerprint method="5" print="6801135122bd47042914ffff">
+<capacityKey id="FAL1043888">
+<description>AMM 20p Slot Extension</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>1</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1044135">
+<description>1+1 Microwave Radio Protection</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>10</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1043849">
+<description>PDH Network Protection</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>10</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1045760">
+<description>Additional ETU Ethernet Links</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>10</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1048166">
+<description>Modulation Agile RAU Xu</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>17</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1241984">
+<description>TN/LH Header Compr</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>17</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1242200">
+<description>TN/LH IGMP snooping</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>1</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1241788">
+<description>TN/LH Craft</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>1</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1242332">
+<description>TN/LH Enh RLB</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>17</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1242331">
+<description>TN/LH XPIC</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>10</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1242659">
+<description>TN R6/LH R2 Basic SW</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>1</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1242660">
+<description>TN/LH Upgr 500 to 600Mbps</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>17</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1242662">
+<description>TN/LH Upgr 600 to 700Mbps</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>17</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1242663">
+<description>TN/LH Upgr 700 to 800Mbps</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>17</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1242666">
+<description>TN/LH Upgr 800 to 900Mbps</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>17</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1242667">
+<description>TN/LH Upgr 900 to 1000Mbps</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>17</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1242668">
+<description>TN/LH Upgr 1000 to 1250Mbps</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>17</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1240199">
+<description>Ethernet Provider Mode</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>1</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1241120">
+<description>TN/LH Upgr 250 to 300 Mbps</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>17</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1241122">
+<description>TN/LH Upgr 350 to 400 Mbps</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>17</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1241123">
+<description>TN/LH Upgr 400 to 450 Mbps</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>17</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1241124">
+<description>TN/LH Upgr 450 to 500 Mbps</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>17</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1241126">
+<description>TN/LH 4xE1/DS1 over CES</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>10</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1241280">
+<description>TN/LH 1588v2 Basic Sync</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>1</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1241281">
+<description>TN/LH 1588v2 Enh Sync</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>1</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1241282">
+<description>TN/LH 1588v2 Sync Distr</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>1</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1241435">
+<description>LH Mode</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>1</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1241541">
+<description>TN/LH Enh RL Bonding</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>10</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1242219">
+<description>TN/LH Enh Eth Capability</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>10</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1242330">
+<description>TN/LH 1+1 RL Prot</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>10</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1242545">
+<description>TN TX HP</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>17</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1242608">
+<description>TN/LH ERP</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>1</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1241119">
+<description>TN/LH Upgr 200 to 250 Mbps</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>17</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1241121">
+<description>TN/LH Upgr 300 to 350 Mbps</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>17</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1241118">
+<description>TN/LH Upgr 150 to 200 Mbps</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>17</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1241117">
+<description>TN/LH Upgr 100 to 150 Mbps</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>17</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1241279">
+<description>TN/LH Eth SOAM FM/PM</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>1</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1241116">
+<description>TN/LH Upgr 50 to 100 Mbps</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>17</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1241115">
+<description>TN/LH Upgr 25 to 50 Mbps</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>17</capacity>
+<noHardLimit/>
+</capacityKey>
+<capacityKey id="FAL1242669">
+<description>TN/LH 2nd carrier</description>
+<start>2025-05-04</start>
+<noStop/>
+<capacity>10</capacity>
+<noHardLimit/>
+</capacityKey>
+</fingerprint>
+</SWLT>
+</body>
